@@ -1,4 +1,5 @@
 # Hi-all
 Essai :
-Je suis nouveau et j'apprends à utiliser cet outil.
-Je suis dans un domaine de formation proche, mais je fais pas de dévéloppement, ni création de logiciel.
+I'm new and I learn to use this tool.
+I'm in the near field of training.
+But I make no development or creation software.
